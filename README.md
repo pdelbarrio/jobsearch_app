@@ -17,7 +17,8 @@ This app serves as a job search platform with three primary screens:
 - Features a search engine.
 - Offers three filter buttons for job types: full-time, part-time, and contractor.
 - Displays a list of jobs with the default query ('React in Barcelona').
-- ![Main Screen](https://res.cloudinary.com/getoutbcn/image/upload/v1695380349/portfolio/projects/rnativejobs1_-_copia_okccsg.jpg)
+- 
+ <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695380349/portfolio/projects/rnativejobs1_-_copia_okccsg.jpg" width="356" height="721" alt="Main Screen">
 
 ### 2. Job Details Screen
 
@@ -25,12 +26,14 @@ This app serves as a job search platform with three primary screens:
 - Provides three tab-like buttons: 'About,' 'Qualifications,' and 'Responsibilities' for viewing additional job details.
 - Includes a favorites button (currently not enabled).
 - Offers an 'Apply for job' button that opens a page for job applications.
-- ![Job Details Screen](https://res.cloudinary.com/getoutbcn/image/upload/v1695380349/portfolio/projects/rnativejobs2_-_copia_dyy9yz.jpg)
+
+<img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695380349/portfolio/projects/rnativejobs2_-_copia_dyy9yz.jpg" width="356" height="721" alt="Job Details Screen">
 
 ### 3. Search Results Screen
 
 - Displays the results of job searches, which can be based on the predetermined filters of the buttons of the Main Screen (full-time, part-time, contractor) or a manual search for specific technology or language.
-- ![Search Results Screen](https://res.cloudinary.com/getoutbcn/image/upload/v1695399935/rnativejobs3_nizfvo.jpg)
+
+<img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695399935/rnativejobs3_nizfvo.jpg" width="356" height="721" alt="Search Results Screen">
 
 ## Deployment Status
 
