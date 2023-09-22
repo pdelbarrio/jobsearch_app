@@ -6,7 +6,7 @@ This React Native app was created to refresh skills and provide hands-on experie
 
 This app relies on a third-party job search API to fetch job listings. Please note that the API used is not free, and the free plan is almost consumed.
 
-[Link to the Job Search API](https://www.exampleapi.com/job-search-api)
+[Link to the Job Search API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch)
 
 ## Overview
 
