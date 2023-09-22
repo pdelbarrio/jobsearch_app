@@ -4,7 +4,7 @@ This React Native app was created to refresh skills and provide hands-on experie
 
 ## API Usage
 
-This app relies on a third-party job search API to fetch job listings. Please note that the API used is not free, and the free plan is almost consumed. You may need to upgrade your API plan or explore alternative data sources if the free quota is exhausted.
+This app relies on a third-party job search API to fetch job listings. Please note that the API used is not free, and the free plan is almost consumed.
 
 [Link to the Job Search API](https://www.exampleapi.com/job-search-api)
 
@@ -17,7 +17,7 @@ This app serves as a job search platform with three primary screens:
 - Features a search engine.
 - Offers three filter buttons for job types: full-time, part-time, and contractor.
 - Displays a list of jobs with the default query ('React in Barcelona').
-- 
+  
  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695380349/portfolio/projects/rnativejobs1_-_copia_okccsg.jpg" width="356" height="721" alt="Main Screen">
 
 ### 2. Job Details Screen
